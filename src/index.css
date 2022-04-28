@@ -56,7 +56,7 @@ display: flex;
 }
 .active{
 background-color: #00b7ff;
-color:#ffffff;
+color:#fcf7f7;
 box-shadow: 5px 10px 30px rgba(189, 198, 64, 0.411);
 transition: all ease 0.2s;
 }

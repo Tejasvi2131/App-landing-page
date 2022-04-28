@@ -23,9 +23,9 @@ function Navbar(){
            </label>
            <ul className="menu">
               <li><a href="#" className="active">Home</a></li>
-              <li><a href="#">Features</a></li>
-              <li><a href="#">About</a></li>
-              <li><a href="#">UI SS</a></li>
+              <li><a href="#features">Features</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#presentaion">UI SS</a></li>
               <li><a href="#">Download</a></li>
             </ul> 
        </nav>
